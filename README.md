@@ -1,5 +1,6 @@
 # clone-reddit
 #front end: react, readux toolkit
+
 #chức năng: 
 + clone reddit: edit info, đăng bài post, hiển thị bài post 
 giao diện: mobile
