@@ -3,7 +3,9 @@
 
 #chức năng: 
 + clone reddit: edit info, đăng bài post, hiển thị bài post 
-giao diện: mobile
+
+#giao diện: mobile
+
 #demo
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/106407806/194905759-891e5b2e-2f5b-4e97-b283-dfabbc00728d.png"> 
 Đăng bài: <img width="471" alt="image" src="https://user-images.githubusercontent.com/106407806/194905951-3ae360ca-21a0-4be2-9638-528950d2b074.png">
